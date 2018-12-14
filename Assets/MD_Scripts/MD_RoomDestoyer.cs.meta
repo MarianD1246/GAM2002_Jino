@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f1ea2e2dc88b9b8408504771679e16f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StartingPlatform: {fileID: 1158189932763372, guid: d17d34ba80936e849bbc17b3f3dbb3f8,
+      type: 2}
+  - MedStartingPlatform: {fileID: 1158189932763372, guid: d7d594fb34e171d40a054f54698edf9d,
+      type: 2}
+  - HardStartingPlatform: {fileID: 1158189932763372, guid: b432c04df855c4a4ea399adccbac62d6,
+      type: 2}
+  - RoomDestoyer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
